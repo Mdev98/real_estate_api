@@ -1,0 +1,75 @@
+[
+	{
+		"saleOrRent" : "rent",
+		"description": "Magnifique Villa a vendre en bordure de mer",
+		"address": "Senegal,Dakar,Yoff",
+		"houseType": "appartement",
+		"housePrice": 250000,
+		"bedRoom" : 4,
+		"bathroom": 3,
+		"parlour" : 2,
+		"pool" : false,
+		"manager": "5d7a514b5d2c12c7449be042"
+	},
+	{
+		"saleOrRent" : "sale",
+		"description": "Magnifique Villa a vendre en bordure de mer",
+		"address": "Senegal,Dakar,Mamelle",
+		"houseType": "house",
+		"housePrice": 25000000,
+		"bedRoom" : 4,
+		"bathroom": 3,
+		"parlour" : 2,
+		"pool" : false,
+		"manager": "5d7a514b5d2c12c7449be042"
+	},
+	{
+		"saleOrRent" : "sale",
+		"description": "Magnifique Villa sur la route de rufisque",
+		"address": "Senegal,Rufisque,Zac Mbao",
+		"houseType": "house",
+		"housePrice": 25000000,
+		"bedRoom" : 3,
+		"bathroom": 2,
+		"parlour" : 1,
+		"pool" : false,
+		"manager": "5d7a514b5d2c12c7449be042"
+	},
+	{
+		"saleOrRent" : "rent",
+		"description": "Magnifique appartement au 4e etage",
+		"address": "Senegal,Dakar,Sicap Foire",
+		"houseType": "appartement",
+		"housePrice": 250000,
+		"bedRoom" : 3,
+		"bathroom": 2,
+		"parlour" : 1,
+		"pool" : false,
+		"manager": "5d7a514b5d2c12c7449be042"
+	},
+	{
+		"saleOrRent" : "sale",
+		"description": "Magnifique Villa aux almadies",
+		"address": "Senegal,Dakar,Almadie",
+		"houseType": "house",
+		"housePrice": 70000000,
+		"bedRoom" : 5,
+		"bathroom": 3,
+		"parlour" : 2,
+		"pool" : true,
+		"manager": "5d7a514b5d2c12c7449be042"
+	},
+	{
+		"saleOrRent" : "rent",
+		"description": "Appartement au 2e etage equipé",
+		"address": "Senegal,Dakar,Liberté 6",
+		"houseType": "appartement",
+		"housePrice": 550000,
+		"bedRoom" : 4,
+		"bathroom": 3,
+		"parlour" : 2,
+		"pool" : false,
+		"manager": "5d7a514b5d2c12c7449be042"
+	}
+	
+]
